@@ -1,0 +1,17 @@
+C:\course-19\ConstructionApp\Data\bin\Debug\net8.0\Data.deps.json
+C:\course-19\ConstructionApp\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\course-19\ConstructionApp\Data\bin\Debug\net8.0\Data.dll
+C:\course-19\ConstructionApp\Data\bin\Debug\net8.0\Data.pdb
+C:\course-19\ConstructionApp\Data\bin\Debug\net8.0\Domain.dll
+C:\course-19\ConstructionApp\Data\bin\Debug\net8.0\Domain.pdb
+C:\course-19\ConstructionApp\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\course-19\ConstructionApp\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\course-19\ConstructionApp\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\course-19\ConstructionApp\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\course-19\ConstructionApp\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\course-19\ConstructionApp\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\course-19\ConstructionApp\Data\obj\Debug\net8.0\Data.dll
+C:\course-19\ConstructionApp\Data\obj\Debug\net8.0\refint\Data.dll
+C:\course-19\ConstructionApp\Data\obj\Debug\net8.0\Data.pdb
+C:\course-19\ConstructionApp\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\course-19\ConstructionApp\Data\obj\Debug\net8.0\ref\Data.dll

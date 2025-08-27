@@ -1,0 +1,11 @@
+C:\course-19\ConstructionApp\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\course-19\ConstructionApp\Domain\bin\Debug\net8.0\Domain.dll
+C:\course-19\ConstructionApp\Domain\bin\Debug\net8.0\Domain.pdb
+C:\course-19\ConstructionApp\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\course-19\ConstructionApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\course-19\ConstructionApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\course-19\ConstructionApp\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\course-19\ConstructionApp\Domain\obj\Debug\net8.0\Domain.dll
+C:\course-19\ConstructionApp\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\course-19\ConstructionApp\Domain\obj\Debug\net8.0\Domain.pdb
+C:\course-19\ConstructionApp\Domain\obj\Debug\net8.0\ref\Domain.dll
